@@ -7,7 +7,7 @@
 
 Proyectos: 
 
-- Mergers and Acquisitions (M_A)
+- Mergers and Acquisitions (M & A)
 
 - Web Scrapping 
 
