@@ -1,7 +1,7 @@
 # Repositiorio Práctica Banco Central 
 
-## Practicante: Tomás Bustamante Hernández (tomas.bustamante.h@usach.cl)
-## Supervisor: Carlos Madeira (cmadeira@bcentral.cl)
+### Practicante: Tomás Bustamante Hernández (tomas.bustamante.h@usach.cl)
+### Supervisor: Carlos Madeira (cmadeira@bcentral.cl)
 
 ---
 
