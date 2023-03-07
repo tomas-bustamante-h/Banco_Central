@@ -9,6 +9,9 @@
 - FRB_H15: 10-year Treasury constant maturity & 10-year inflation indexed Treasury constant maturity from 1919 to 2023 Monthly. (Federal Reserve System)
 - DAAA.csv:  Moody's Seasoned Aaa Corporate Bond Yield, Percent, Not Seasonally Adjusted, Daily, from 1983 to 2023. (FRED St Louis) 
 - DBAA.csv: Moody's Seasoned Baa Corporate Bond Yield, Percent, Not Seasonally Adjusted, Daily, from 1986 to 2023. (FRED St Louis)
+-firm_disappearances_merger_1895_1955_nelson_1959.xlsx: M&A Data from 1985 to 1955, Nelson (1959)
+-  mergers_divestitures_disclosed_value_1968_2000_pautler_2001.xlsx: M&A Data from 1968 to 2000, Pautler (2001), FTC, Source: Mergerstat 2001
+
 
 ## For UK
 
@@ -18,6 +21,7 @@
 - a02safeb2023.xls: Employment, unemployment and economic inactivity for people aged 16 and over and aged from 16 to 64 (seasonally adjusted) from 1971 to 2020, Quarterly. (Office For National Statistics)
 - ANNUAL_PAR_MATURITY_10.csv: Annual average yield from British Government Securities, 10 year Nominal Par Yield, from 1963 to 2023, daily. (Bank Of England)
 - BASERATE.xls: Official Bank Rate (Interest Rate) History Data from 1964, Daily (Bank Of England)
+- am.xlsx: Mergers and acquisitions involving UK companies time series, from 1969 to 2022, Quarterly and Annualy (Office for Narional Statistics)
 
 
 
