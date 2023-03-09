@@ -11,7 +11,8 @@
 - dbaa.csv: Moody's Seasoned Baa Corporate Bond Yield, Percent, Not Seasonally Adjusted, Daily, from 1986 to 2023. (FRED St Louis)
 - firm_disappearances_merger_1895_1955_nelson_1959.xlsx: M&A Data from 1985 to 1955, Nelson (1959)
 - mergers_divestitures_disclosed_value_1968_2000_pautler_2001.xlsx: M&A Data from 1968 to 2000, Pautler (2001), FTC, Source: Mergerstat 2001
-
+- gdpbyind_go_1947_1997: GDP by Industries from 1947 to 1997, Quarterly and Annualy (BEAS USA)
+- gdpbyind_go_1997_2021: GDP by Industries from 1997 to 2021, Quarterly and Annualy (BEAS USA)
 
 ## For UK
 
@@ -22,8 +23,7 @@
 - annual_par_maturity_10.csv: Annual average yield from British Government Securities, 10 year Nominal Par Yield, from 1963 to 2023, daily. (Bank Of England)
 - baserate.xls: Official Bank Rate (Interest Rate) History Data from 1964, Daily (Bank Of England)
 - am.xlsx: Mergers and acquisitions involving UK companies time series, from 1969 to 2022, Quarterly and Annualy (Office for Narional Statistics)
-
-
+- diop.xlsx: Index of Production, from 1948 to 2022
 
 
 
